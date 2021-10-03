@@ -7,4 +7,4 @@ Two CD4511 decoders are used to send 2<sup>n</sup> outputs. From the Arduino, 4-
 The respective LED's are then lit up. The potentiometer ranges from 0-99.
 
 
-https://www.tinkercad.com/things/5cBMuxQqn2e
+[!TinkerCAD](https://www.tinkercad.com/things/5cBMuxQqn2e)
